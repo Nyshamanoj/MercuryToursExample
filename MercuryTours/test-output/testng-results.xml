@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T00:48:39 PDT" name="Default suite" finished-at="2023-10-11T00:49:41 PDT" duration-ms="61410">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T00:48:39 PDT" name="Default test" finished-at="2023-10-11T00:49:41 PDT" duration-ms="61410">
+      <class name="test.FlightTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.FlightTest@15ff3e9e]" started-at="2023-10-11T00:48:39 PDT" name="beforeTest" finished-at="2023-10-11T00:49:39 PDT" duration-ms="59654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:test.FlightTest@15ff3e9e]" started-at="2023-10-11T00:49:39 PDT" name="f" finished-at="2023-10-11T00:49:39 PDT" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.FlightTest@15ff3e9e]" started-at="2023-10-11T00:49:39 PDT" name="afterTest" finished-at="2023-10-11T00:49:41 PDT" duration-ms="1315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.FlightTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
